@@ -1,1 +1,3 @@
 test file 1
+claude was here
+let's see if this goes away
